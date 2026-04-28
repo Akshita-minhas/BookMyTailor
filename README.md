@@ -1,4 +1,4 @@
-# 👗 BookMyTailor
+# 👗(2211985004-akshita minhas,2211985044-saneha bhatia,2211985050-suhani) BookMyTailor-copyright
 
 BookMyTailor is a web-based platform designed to simplify the process of finding skilled tailors and booking appointments online. It provides a structured and convenient digital solution that connects customers with tailoring professionals.
 
